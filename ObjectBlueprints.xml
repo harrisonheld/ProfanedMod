@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+  <object Name="Profaned Cudgel" Inherits="Cudgel3">
+    <part Name="ModProfaned" />
+  </object>
+  <object Name="Profaned Chain Pistol" Inherits="Chain Pistol">
+    <part Name="ModProfaned" />
+  </object>
+</objects>
